@@ -1,0 +1,161 @@
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 15
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 1
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.0005
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 15
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 1
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.0005
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - Will load model ./best_model.pkl.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 15
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 1
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.0005
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+INFO - Will load model ./best_model.pkl.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 15
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 1
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.0005
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - Will load model ./best_model.pkl.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 15
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 1
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.0005
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - Will load model ./best_model.pkl.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 15
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 1
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.0005
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - Will load model ./best_model.pkl.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 15
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 1
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.0005
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - Will load model ./best_model.pkl.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 15
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 1
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.0005
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - Will load model ./best_model.pkl.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 15
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 1
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.0005
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
