@@ -1,2 +1,2 @@
 # MasterProject
-Structured code for my master project 
+Code used for hypotheses discovery in the CoDa data
